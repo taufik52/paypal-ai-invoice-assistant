@@ -55,7 +55,7 @@ Python (stdlib only), PayPal REST API (sandbox, Invoicing v2), Ollama.
 
 ## Links (to fill in by Cipoz)
 - Public repo URL: https://github.com/taufik52/paypal-ai-invoice-assistant
-- Demo video (YouTube, < 3 min): ____________________
+- Demo video (YouTube, < 3 min): https://www.youtube.com/watch?v=qThaHZImmbo (1:58, Public, uploaded 12 Nov 2026 from ngobel420)
 - Live demo URL: http://127.0.0.1:8080 (local; no hosted URL — judges run it locally)
 
 ## License
