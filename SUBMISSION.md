@@ -54,7 +54,7 @@ Open http://127.0.0.1:8080, type a request, click **Create invoice**.
 Python (stdlib only), PayPal REST API (sandbox, Invoicing v2), Ollama.
 
 ## Links (to fill in by Cipoz)
-- Public repo URL: ____________________
+- Public repo URL: https://github.com/taufik52/paypal-ai-invoice-assistant
 - Demo video (YouTube, < 3 min): ____________________
 - Live demo URL: http://127.0.0.1:8080 (local; no hosted URL — judges run it locally)
 
